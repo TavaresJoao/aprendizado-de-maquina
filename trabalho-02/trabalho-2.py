@@ -35,12 +35,12 @@ y.to_csv('rotulos.csv')
 
 #%% Carregando os dados salvos
 # isso não está funcionando, pois o y está sendo salvo com uma linha a menos
-#y = pd.read_csv('rotulos.csv')
-#y = y['0.1'].values
+y = pd.read_csv('rotulos.csv')
+y = y['0.1'].values
 
-#X = pd.read_csv('dados.csv')
-#X = X.drop(['Unnamed: 0'],axis=1)
-#X = X.iloc[:,:].values
+X = pd.read_csv('dados.csv')
+X = X.drop(['Unnamed: 0'],axis=1)
+X = X.iloc[:,:].values
 
 #%% Fazer a base de traino e testes
 from sklearn.model_selection import train_test_split
