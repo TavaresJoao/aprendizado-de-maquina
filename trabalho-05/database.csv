@@ -1,0 +1,21 @@
+class,weight,height,width,volume,taste,Color-F,Color-D,texture
+Ameixa,71,3.8,4.8,80,Doce,Bordô,Vermelha,Lisa
+Ameixa,79,3.9,5.2,80,Doce,Bordô,Amarela,Lisa
+Ameixa,69,4,4.5,70,Doce,Bordô,Amarela,Lisa
+Ameixa,76,4,4.9,100,Doce,Bordô,Vermelha,Lisa
+Ameixa,82,3.7,5,105,Doce,Bordô,Amarela,Lisa
+Ameixa,79,3.8,5.1,98,Doce,Bordô,Amarela,Lisa
+Ameixa,89,4,5,75,Doce,Bordô,Vermelha,Lisa
+Ameixa,71,3.9,4.7,78,Doce,Bordô,Amarela,Lisa
+Ameixa,72,3.8,4.8,88,Doce,Bordô,Amarela,Lisa
+Ameixa,77,4,4.9,83,Doce,Bordô,Vermelha,Lisa
+Limao,79,5.2,4.5,67,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,88,5.6,5,88,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,85,5.3,4.7,90,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,84,5,5.2,95,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,94,5.6,5,90,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,86,5.4,5.1,87,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,82,5.2,4.9,91,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,91,5.7,4.7,92,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,87,5.4,5,89,Azedo,Verde escuro,Verde claro,Rugosa
+Limao,83,5.3,5.1,88,Azedo,Verde escuro,Verde claro,Rugosa
